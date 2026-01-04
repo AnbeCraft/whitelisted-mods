@@ -14,3 +14,4 @@ litematica
 axiom
 voicechat
 anbeguard
+fabric-api-base
