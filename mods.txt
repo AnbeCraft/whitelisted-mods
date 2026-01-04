@@ -1,0 +1,15 @@
+fabric-api
+cloth-config
+malilib
+modmenu
+inventoryprofilesnext
+ukus-armor-hud
+sodium
+sodium-extra
+lithium
+iris
+xaerominimap
+xaeroworldmap
+litematica
+axiom
+voicechat
